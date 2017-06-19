@@ -1,8 +1,9 @@
 ## paymentspring checkout
 
-My god, they found me. I don't know how but they found me. Run for it, Marty. My god, they found me. I don't know how but they found me. Run for it, Marty. No, Marty, we've already agreed that having information about the future could be extremely dangerous. Even if your intentions are good, they could backfire drastically.
+The checkout button is the easiest way to start accepting payments on your website.
 
-Whatever you've got to tell me I'll find out through the natural course of time. Damn, where is that kid. Damn. Damn damn. You're late, do you have no concept of time? You bet. Please note that Einstein's clock is in complete synchronization with my control watch.
+Checkout buttons are configurable (see options below) and multiple checkout buttons can be included on a webpage.
+
 
 
 ### Example
@@ -34,4 +35,4 @@ dynamic distribution:
 
 ### Support or Contact
 
-Just getting started with paymentspring, or having a problem? [Contact us](https://paymentspring.com/contact/) or checkout [our docs](https://paymentspring.com/developers/).
+Just getting started with paymentspring, or having a problem? [Contact us](https://paymentspring.com/contact/) or checkout [our docs](https://paymentspring.com/developers/)!
