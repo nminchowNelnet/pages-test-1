@@ -1,6 +1,10 @@
 ---
 ---
 
+$header-bg-color: #4EC0AF;
+$header-bg-color-secondary: #4EC0AF;
+$body-link-color: #4EC0AF;
+
 @import "{{ site.theme }}";
 body {
   font-family: 'ProximaNovaA-Regular', sans-serif;
