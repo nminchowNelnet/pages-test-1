@@ -1,6 +1,8 @@
 ---
 ---
 
+// these are not yet supported, but the color rules below should be replaced with these 
+// when https://github.com/pages-themes/cayman/compare/v0.0.4...master is merged
 $header-bg-color: #4EC0AF;
 $header-bg-color-secondary: #4EC0AF;
 $body-link-color: #4EC0AF;
@@ -14,6 +16,9 @@ body {
   h1, h2, h3, h4 {
     color: #4EC0AF;
   }
+}
+a {
+  color: #1e6bb8;
 }
 .page-header {
   img {
