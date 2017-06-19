@@ -1,6 +1,6 @@
 ## paymentspring checkout
 
-The checkout button is the easiest way to start accepting payments on your website.
+The checkout button is the easiest way to start accepting payments on your website with paymentspring.
 
 Checkout buttons are configurable (see options below) and multiple checkout buttons can be included on a web page.
 
