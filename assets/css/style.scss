@@ -1,7 +1,17 @@
 ---
 ---
 
+$header-bg-color: #4EC0AF;
+$header-bg-color-secondary: #4EC0AF;
+$body-link-color: #4EC0AF;
+$section-headings-color: #4EC0AF;
+
 @import "{{ site.theme }}";
 body {
   font-family: 'ProximaNovaA-Regular', sans-serif;
+}
+.main-content {
+  h1, h2, h3, h4 {
+    color: #4EC0AF;
+  }
 }
