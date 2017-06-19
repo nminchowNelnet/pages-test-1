@@ -10,8 +10,7 @@ Whatever you've got to tell me I'll find out through the natural course of time.
 To include a checkout button on a web page, request a checkout form-id. Once you have a form-id, paste this javascript into your site where you would like the form to appear:
 
 ```markdown
-<script id="ps-script" src="https://checkout.paymentspring.com/js/paymentspring.js"
-  formid="cb7eae32763131ade35f"></script>
+<script id="ps-script" src="https://checkout.paymentspring.com/js/paymentspring.js" formid="cb7eae32763131ade35f"></script>
 ```
 Where `cb7eae32763131ade35f` is your form-id.
 
