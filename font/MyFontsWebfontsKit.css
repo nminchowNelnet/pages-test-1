@@ -1,0 +1,28 @@
+/**
+ * @license
+ * MyFonts Webfont Build ID 3408501, 2017-06-19T14:13:21-0400
+ * 
+ * The fonts listed in this notice are subject to the End User License
+ * Agreement(s) entered into by the website owner. All other parties are 
+ * explicitly restricted from using the Licensed Webfonts(s).
+ * 
+ * You may obtain a valid license at the URLs below.
+ * 
+ * Webfont: ProximaNova-Regular by Mark Simonson
+ * URL: https://www.myfonts.com/fonts/marksimonson/proxima-nova/regular/
+ * Copyright: Copyright (c) Mark Simonson, 2005. All rights reserved.
+ * Licensed pageviews: 1,000,000
+ * 
+ * 
+ * License: https://www.myfonts.com/viewlicense?type=web&buildid=3408501
+ * 
+ * © 2017 MyFonts Inc
+*/
+
+
+/* @import must be at top of file, otherwise CSS will not work */
+@import url("//hello.myfonts.net/count/340275");
+
+  
+@font-face {font-family: 'ProximaNova';font-weight: normal;font-style: normal;src: url('webfonts/340275_0_0.eot');src: url('webfonts/340275_0_0.eot?#iefix') format('embedded-opentype'),url('webfonts/340275_0_0.woff2') format('woff2'),url('webfonts/340275_0_0.woff') format('woff'),url('webfonts/340275_0_0.ttf') format('truetype');}
+ 
