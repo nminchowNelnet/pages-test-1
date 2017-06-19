@@ -2,13 +2,11 @@
 
 The checkout button is the easiest way to start accepting payments on your website.
 
-Checkout buttons are configurable (see options below) and multiple checkout buttons can be included on a webpage.
-
-
+Checkout buttons are configurable (see options below) and multiple checkout buttons can be included on a web page.
 
 ### Example
 
-To include a checkout button on a web page, request a checkout form-id. Once you have a form-id, paste this javascript into your site where you would like the form to appear:
+To include a checkout button on a page, you will need a checkout form-id. Once you have a form-id, paste this javascript into your site where you would like the form to appear:
 
 ```markdown
 <script id="ps-script" src="https://checkout.paymentspring.com/js/paymentspring.js" formid="cb7eae32763131ade35f"></script>
