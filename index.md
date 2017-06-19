@@ -7,12 +7,13 @@ No one rejects, dislikes, or avoids pleasure itself, because it is pleasure, but
 
 ### Example
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+To include a checkout button on a web page, request a checkout form id. Once you have a form-id, paste this js into your site where you would like the form to appear:
 
 ```markdown
 <script id="ps-script" src="https://checkout.paymentspring.com/js/paymentspring.js"
   formid="cb7eae32763131ade35f"></script>
 ```
+Where `cb7eae32763131ade35f` is your form-id.
 
 ### Options
 
