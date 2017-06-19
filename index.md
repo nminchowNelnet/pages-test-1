@@ -16,9 +16,22 @@ Where `cb7eae32763131ade35f` is your form-id.
 
 ### Options
 
-simple amount:
-{% include simple-button.html %}
+static amount:
+{% include static-amount.html %}
+
+dynamic amount:
+{% include dynamic-amount.html %}
+
+recurring checkbox:
+{% include checkbox.html %}
+
+static distribution:
+{% include static-distribution.html %}
+
+dynamic distribution:
+{% include dynamic-distribution.html %}
+
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Just getting started with paymentspring, or having a problem? [Contact us](https://paymentspring.com/contact/) or checkout [our docs](https://paymentspring.com/developers/).
