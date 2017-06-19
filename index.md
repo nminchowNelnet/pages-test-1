@@ -10,12 +10,9 @@ No one rejects, dislikes, or avoids pleasure itself, because it is pleasure, but
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
-code here
+<script id="ps-script" src="https://checkout.paymentspring.com/js/paymentspring.js"
+  formid="cb7eae32763131ade35f"></script>
 ```
-
-![Image](http://placekitten.com/700/200)
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Options
 
