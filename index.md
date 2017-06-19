@@ -17,19 +17,19 @@ Where `cb7eae32763131ade35f` is your form-id.
 ### Options
 
 static amount:
-{% include static-amount.html %}
+{% include checkout-buttons/static-amount.html %}
 
 dynamic amount:
-{% include dynamic-amount.html %}
+{% include checkout-buttons/dynamic-amount.html %}
 
 recurring checkbox:
-{% include checkbox.html %}
+{% include checkout-buttons/checkbox.html %}
 
 static distribution:
-{% include static-distribution.html %}
+{% include checkout-buttons/static-distribution.html %}
 
 dynamic distribution:
-{% include dynamic-distribution.html %}
+{% include checkout-buttons/dynamic-distribution.html %}
 
 
 ### Support or Contact
