@@ -1,13 +1,13 @@
 ## paymentspring checkout
 
-But I must explain to you how all this mistaken idea of denouncing of a pleasure and praising pain was born and I will give you a complete account of the system, and expound the actual teachings of the great explorer of the truth, the master-builder of human happiness. 
+My god, they found me. I don't know how but they found me. Run for it, Marty. My god, they found me. I don't know how but they found me. Run for it, Marty. No, Marty, we've already agreed that having information about the future could be extremely dangerous. Even if your intentions are good, they could backfire drastically.
 
-No one rejects, dislikes, or avoids pleasure itself, because it is pleasure, but because those who do not know how to pursue pleasure rationally encounter consequences that are extremely painful.
+Whatever you've got to tell me I'll find out through the natural course of time. Damn, where is that kid. Damn. Damn damn. You're late, do you have no concept of time? You bet. Please note that Einstein's clock is in complete synchronization with my control watch.
 
 
 ### Example
 
-To include a checkout button on a web page, request a checkout form id. Once you have a form-id, paste this js into your site where you would like the form to appear:
+To include a checkout button on a web page, request a checkout form-id. Once you have a form-id, paste this javascript into your site where you would like the form to appear:
 
 ```markdown
 <script id="ps-script" src="https://checkout.paymentspring.com/js/paymentspring.js"
